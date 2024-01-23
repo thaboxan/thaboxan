@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thaboxan!
 - 👀 I’m interested in everything Engineering and Tech
 - 🌱 I’m currently learning Python, JS, HTML and CSS
-- 💞️ I’m looking to collaborate on anything interesting and futuristic
 - 📫 How to reach me :
 - thvbojafta@gmail.com
 
