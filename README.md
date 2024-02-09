@@ -25,7 +25,7 @@ Let's connect and create awesome things together! 😄🚀
 
 
 
-## 👾 Technologies
+## 🚀 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
