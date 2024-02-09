@@ -19,7 +19,7 @@ Feel free to reach out to me via:
 
 - 📞 Phone: 072 170 1931
 - ✉️ Email: thvbojafta@gmail.com
-- - [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/thabojafta1)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/thabojafta1)
 
 Let's connect and create awesome things together! 😄🚀
 
