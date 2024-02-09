@@ -1,12 +1,28 @@
-Thabo Jafta
-Entry-level React Developer
-I am an Entry-level React Developer in the final stages of graduating from CodeSpace Academy's comprehensive Software Development course. I am proficient in React, Next.js, JavaScript, Redux, Bootstrap, HTML, and CSS. My previous experience as a self-taught developer has primed me to quickly acquire and apply new knowledge.
+# Thabo Jafta - Entry-level React Developer
 
-Phone Icon 072 170 1931
+Hey there! 👋 Welcome to my GitHub profile!
 
-Mail Icon thvbojafta@gmail.com
+## About Me
 
-Website Icon Personal Portfolio Site
+I'm Thabo Jafta, currently studying Software Development at CodeSpace Academy. While my background is in Mechanical Engineering, I've always been fascinated by coding and decided to pivot into the world of software development. I'm passionate about creating efficient and user-friendly web applications.
+
+
+## Extra Exciting Stuff
+
+- I love problem-solving and collaborating with others to find innovative solutions.
+- Outside of coding, I enjoy hiking, photography, and exploring new technologies.
+- I'm always eager to learn and expand my skill set, constantly seeking out new challenges and opportunities for growth.
+
+## Contact Me
+
+Feel free to reach out to me via:
+
+- 📞 Phone: 072 170 1931
+- ✉️ Email: thvbojafta@gmail.com
+- - [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/thabojafta1)
+
+Let's connect and create awesome things together! 😄🚀
+
 
 
 ## 👾 Technologies
