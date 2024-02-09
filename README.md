@@ -13,7 +13,7 @@ Website Icon Personal Portfolio Site
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,figma&theme=light,bootstrap, git, github, netlify" />
   </a>
 </p>
 
