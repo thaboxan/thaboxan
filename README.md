@@ -1,4 +1,4 @@
-# Thabo Jafta - Entry-level React Developer
+# Thabo Jafta - Entry-level JS/React Developer
 
 Hey there! 👋 Welcome to my GitHub profile!
 
@@ -19,7 +19,7 @@ Feel free to reach out to me via:
 
 - 📞 Phone: 072 170 1931
 - ✉️ Email: thvbojafta@gmail.com
-- (https://www.linkedin.com/in/thabojafta1)
+- https://www.linkedin.com/in/thabojafta1
 
 Let's connect and create awesome things together! 😄🚀
 
