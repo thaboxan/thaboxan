@@ -19,8 +19,8 @@ Feel free to reach out to me via:
 
 - 📞 Phone: 072 170 1931
 - ✉️ Email: thvbojafta@gmail.com
-- Personal Portfolio https://thabojaftaportfoliox.netlify.app/
-- https://www.linkedin.com/in/thabojafta1
+- Personal Portfolio: https://thabojaftaportfoliox.netlify.app/
+- Linkedin Profile: https://www.linkedin.com/in/thabojafta1
 
 Let's connect and create awesome things together! 😄
 
