@@ -1,4 +1,4 @@
-# Thabo Jafta - Entry-level JS/React Developer
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Thabo+Jafta;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
 Hey there! 👋 Welcome to my GitHub Universe!
 
