@@ -1,32 +1,18 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Thabo+Jafta;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Thabo+Jafta;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)](https://git.io/typing-svg)
 
 Hey there! 👋 Welcome to my GitHub Universe!!
 
-## About Me
+## 🙋‍♂️ About Me
 
-I'm Thabo Jafta, currently studying Software Development at CodeSpace Academy. While my background is in Mechanical Engineering, I've always been fascinated by coding and decided to pivot into the world of software development. I'm passionate about creating efficient and user-friendly web/mobile applications.
+I'm Thabo Jafta, an aspiring Software Developer currently studying at CodeSpace Academy. With a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
 
+## 💡 What Excites Me
 
-## Extra Exciting Stuff
+- Problem-solving and collaborating with others to find innovative solutions.
+- Exploring new technologies and constantly expanding my skill set.
+- Creating impactful applications that make a difference.
 
-- I love problem-solving and collaborating with others to find innovative solutions.
-- Outside of coding, I enjoy hiking and exploring new technologies.
-- I'm always eager to learn and expand my skill set, constantly seeking out new challenges and opportunities for growth.
-
-## Contact Me
-
-Feel free to reach out to me via:
-
-- 📞 Phone: 072 170 1931
-- ✉️ Email: thvbojafta@gmail.com
-- Personal Portfolio: https://thabojaftaportfoliox.netlify.app/
-- Linkedin Profile: https://www.linkedin.com/in/thabojafta1
-
-Let's connect and create awesome things together! 😄
-
-
-
-## 🚀 Technologies
+## 👨‍💻 Skills and Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +20,27 @@ Let's connect and create awesome things together! 😄
   </a>
 </p>
 
-[![Thaboxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboxan)](https://github.com/thaboxan/github-readme-stats)
+## 🌱 Continuous Learning
+
+I'm always eager to learn and take on new challenges. Outside of coding, I enjoy hiking and exploring nature, which helps me recharge and approach problems with a fresh perspective.
+
+## 📫 Let's Connect
+
+Feel free to reach out to me via:
+
+- 📞 Phone: 072 170 1931
+- ✉️ Email: thvbojafta@gmail.com
+- 🌐 Personal Portfolio: https://thabojaftaportfoliox.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/thabojafta1
+
+Let's connect and create awesome things together! 😄
+
+## 📈 GitHub Stats
+
+![Thaboxan's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboxan)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
+
 ![](https://komarev.com/ghpvc/?username=thaboxan)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thaboxan)](https://git.io/streak-stats)
