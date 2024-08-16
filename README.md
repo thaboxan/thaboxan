@@ -16,7 +16,7 @@ I'm Thabo Jafta, an aspiring Software Developer currently studying at CodeSpace 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,python,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,java,python,figma&theme=light" />
   </a>
 </p>
 
