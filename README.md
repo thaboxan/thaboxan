@@ -4,7 +4,8 @@
 
 ## 🙋‍♂️ About Me
 
-I'm Thabo Jafta, an aspiring Software Developer currently studying at CodeSpace Academy. With a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
+CodeSpace Academy graduate, BSc: Software Dev student.
+With a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
 
 ## 💡 What Excites Me
 
@@ -16,7 +17,7 @@ I'm Thabo Jafta, an aspiring Software Developer currently studying at CodeSpace 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,java,python,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,java,python,django,figma&theme=light" />
   </a>
 </p>
 
