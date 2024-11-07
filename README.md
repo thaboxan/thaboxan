@@ -3,7 +3,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## 🙋‍♂️ About Me
 
-CodeSpace Academy graduate, BSc: Software Dev student.
 With a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
 
 ## 💡 What Excites Me
