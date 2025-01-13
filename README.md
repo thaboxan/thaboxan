@@ -17,7 +17,7 @@ with a background in Mechanical Engineering, I've embarked on a journey to pivot
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,java,python,django,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,javascript,html,css,react,java,python,django,figma&theme=light" />
   </a>
 </p>
 
