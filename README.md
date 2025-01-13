@@ -1,7 +1,9 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Thabo+Jafta;%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Aspiring+Software+Developer)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ## 🙋‍♂️ About Me
+
 AWS certified Cloud Practitioner | Codespace Certified Software Developer | DevOps Intern 
 With a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
 
