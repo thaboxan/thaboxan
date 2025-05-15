@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-AWS certified Cloud Practitioner | Codespace Certified Software Developer | DevOps Intern 
+AWS certified Cloud Practitioner | Codespace Certified Software Developer | DevOps Candidate
 with a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
 
 ## 💡 What Excites Me
