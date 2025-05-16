@@ -2,16 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## 🙋‍♂️ About Me
 
-Cloud Practitioner | Certified Software Developer | DevOps Candidate
-with a background in Mechanical Engineering, I've embarked on a journey to pivot into the exciting world of software development, driven by my fascination with coding and a passion for creating efficient and user-friendly web/mobile applications.
-
-## 💡 What Excites Me
-
-- Problem-solving and collaborating with others to find innovative solutions.
-- Exploring new technologies and constantly expanding my skill set.
-- Creating impactful applications that make a difference.
 
 ## 👨‍💻 Skills and Technologies
 
@@ -36,7 +27,11 @@ Feel free to reach out to me via:
 
 Let's connect and create awesome things together! 😄
 
-## 📈 GitHub Stats
+## 🚀 GitHub Stats & Metrics  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thaboxan&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![thaboxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaboxan&show_icons=true&theme=radical&hide_title=true)](https://github.com/thaboxan)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&layout=compact&theme=vision-friendly-dark)](https://github.com/thaboxan)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&size_weight=0.5&count_weight=0.5)
