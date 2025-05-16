@@ -6,9 +6,12 @@
 
 ## 🛠️ Tech Stack
 
-<a align="center" href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,javascript,html,css,react,java,python,django,spring,postman,figma&theme=light&perline=7" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,javascript,html,css,react,java,python,django,spring,postman,figma&theme=light&perline=7" />
+  </a>
+</p>
+
 
 ## 🌱 Continuous Learning
 
