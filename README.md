@@ -4,13 +4,11 @@
 
 
 
-## 👨‍💻 Skills and Technologies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,javascript,html,css,react,java,python,django,figma&theme=light" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,javascript,html,css,react,java,python,django,spring,postman,figma&theme=light&perline=7" />
+</a>
 
 ## 🌱 Continuous Learning
 
