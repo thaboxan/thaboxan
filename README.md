@@ -29,8 +29,21 @@ Let's connect and create awesome things together! 😄
 
 ## 🚀 GitHub Stats & Metrics  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thaboxan&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-[![thaboxan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaboxan&show_icons=true&theme=radical&hide_title=true)](https://github.com/thaboxan)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&layout=compact&theme=vision-friendly-dark)](https://github.com/thaboxan)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thaboxan&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=thaboxan&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
