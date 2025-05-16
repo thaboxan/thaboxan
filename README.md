@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Thabo Jafta 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=435&lines=%3CEat%2C+Sleep%2C+Code%2F%3E...+Repeat;Full-Stack+Developer;Cloud+Enthusiast;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=435&lines=%3CEat%2C+Sleep%2C+Code%2F%3E..+Repeat;Full-Stack+Developer;Cloud+Enthusiast;)
 
 <p align="center">
   <a href="https://thabojaftaportfoliox.netlify.app/" target="_blank">
