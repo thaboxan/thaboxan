@@ -3,13 +3,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=435&lines=%3CEat%2C+Sleep%2C+Code%2F%3E..+Repeat;Full-Stack+Developer;Cloud+Enthusiast;)
 
 <p align="center">
-  <a href="https://thabojaftaportfoliox.netlify.app/" target="_blank">
+  <a href="https://thabojafta.co.za/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/thabojafta1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:thvbojafta@gmail.com">
+  <a href="info@thabojafta.co.za">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
