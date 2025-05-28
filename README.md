@@ -62,7 +62,7 @@
 ## 📫 Let's Build Something Amazing
 
 <p align="center">
-  <a href="mailto:thvbojafta@gmail.com">
+  <a href="mailto:info@thabojafta.co.za">
     <img src="https://img.shields.io/badge/Email%20Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/27721701931">
