@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/thabojafta1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="info@thabojafta.co.za">
+  <a href="dev@thabojafta.co.za">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
