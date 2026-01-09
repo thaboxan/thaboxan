@@ -45,16 +45,7 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=thaboxan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=thaboxan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Stats"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaboxan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Langs"/>
-      </td>
-    </tr>
-  </table>
+
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thaboxan&theme=github-dark&hide_border=true&area=true)
   
