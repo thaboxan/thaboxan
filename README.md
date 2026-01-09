@@ -3,6 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=435&lines=%3CEat%2C+Sleep%2C+Code%2F%3E..+Repeat;Full-Stack+Developer;Cloud+Enthusiast;)
 
 <p align="center">
+    <a href="https://wa.me/27721701931">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://thabojafta.co.za/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
@@ -64,9 +67,6 @@
 <p align="center">
   <a href="mailto:info@thabojafta.co.za">
     <img src="https://img.shields.io/badge/Email%20Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/27721701931">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
